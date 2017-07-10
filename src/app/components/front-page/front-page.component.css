@@ -2,3 +2,9 @@
     padding: 0 10% 0 10%;
     min-height: 90%;
 }
+
+@media only screen and (max-width: 414px) {
+    .container-fluid {
+        padding: 0 5% 0 5%;
+    }
+}
